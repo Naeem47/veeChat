@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639684258390",
+    "project_id": "veechat-8dd37",
+    "storage_bucket": "veechat-8dd37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639684258390:android:681d0238133855c34ae9f7",
+        "android_client_info": {
+          "package_name": "com.example.veechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639684258390-8an7hhvjc8i0d9qkik1qn1k2fb619a50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTWNaCXhjWFccVUaY6lGgcDTdAV8zRlGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639684258390-8an7hhvjc8i0d9qkik1qn1k2fb619a50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
